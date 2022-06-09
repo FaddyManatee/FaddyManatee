@@ -35,15 +35,17 @@
 <img align="left" alt="C (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<br/><br/>
 <img align="left" alt="HTML5 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="jQuery (Logo)" width="31px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="jQuery (Logo)" width="31px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" style="padding-right:6px;"/>
 <img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/github-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/github-light.svg">
   <img alt="GitHub (Logo)" src="https://cdn-icons.flaticon.com/png/512/3875/premium/3875172.png?token=exp=1654538085~hmac=efc2d7da87f737b0351e66adea9d1540" width="26px" align="left" style="padding-right:10px;"/>
 </picture>
+<br/><br/>
 <img align="left" alt="GitLab (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;"/>
 
 <br/>
