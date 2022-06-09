@@ -1,19 +1,19 @@
 # Hi there, I'm Thomas - aka FaddyManatee 👋 
 
-<!-- [![Website](https://img.shields.io/website?label=DOMAINHERE&style=for-the-badge&url=https%3A%2F%2FDOMAINHERE)](https://DOMAINHERE) -->
+[![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
 <!-- Generic template stuff which has nothing to do with me -->
-<!-- ## I'm a...
+## I'm a student, programmer, and musician
 
-- 🔭 Check out my [website!][website]
-- 🌱 I’m currently learning...
-- 🥅 2022 Goals: 
+- 🔭 Check out my [website][website]!
+<!-- - 🌱 I’m currently learning...
+- 🥅 2022 Goals:  -->
 - ⚡ Fun fact: I play the Alto Saxophone
 
-### Connect with me:
+<!-- ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://DOMAINHERE#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://DOMAINHERE#gh-dark-mode-only)
+[![website](images/globe-light.svg)](https://faddy.dk#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://faddy.dk#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
@@ -37,6 +37,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="jQuery (Logo)" width="31px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/github-dark.svg">
@@ -50,6 +51,6 @@
 
 ---
 
-[website]: https://DOMAINHERE
+[website]: https://faddy.dk
 [instagram]: https://instagram.com/thomasmorton_
 [linkedin]: https://www.linkedin.com/in/thomas-morton-40b72622a/
