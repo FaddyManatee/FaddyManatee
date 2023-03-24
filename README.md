@@ -66,15 +66,12 @@
 <img align="left" alt="CSS3 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="jQuery (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/github-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/github-light.svg">
-  <img alt="GitHub (Logo)" width="26px" align="left" style="padding-right:10px;"/>
-</picture>
-<img align="left" alt="GitLab (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;"/>
 
 <br/>
 <br/>
+
+### Profile views:
+![visitors](https://profile-counter.glitch.me/FaddyManatee/count.svg)
 
 ---
 
