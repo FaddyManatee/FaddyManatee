@@ -56,6 +56,7 @@
 <img align="left" alt="C (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="SQLite (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/flask-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/flask-light.svg">
