@@ -46,7 +46,7 @@
 
 
 ### Languages and Tools:
-
+<img align="left" alt="Visual Studio 2022 (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px">
 <img align="left" alt="Visual Studio Code (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/bash-plain-dark.svg">
