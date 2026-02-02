@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
 <!-- Generic template stuff which has nothing to do with me -->
-## I'm a student, programmer, and musician
+## I'm a graduate, programmer, and musician
 
-- 🔭 Check out my [website][website]! (A work in progress project)
-- 🌱 I’m currently learning C++ <!-- - 🥅 2022 Goals:  -->
+- 🔭 Check out my [website][website]! (a work in progress project)
+- 🌱 My favourite language is C/C++ <!-- - 🥅 2022 Goals:  -->
 - ⚡ Fun fact: I play the Alto Saxophone!
 
 ### Connect with me:
@@ -46,14 +46,16 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio 2022 (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original.svg" style="padding-right:10px">
+
 <img align="left" alt="Visual Studio Code (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/bash-plain-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="images/bash-plain-light.svg">
   <img alt="Bash (Logo)" width="26px" align="left" style="padding-right:10px;"/>
 </picture>
 <img align="left" alt="C (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Java (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="SQLite (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
@@ -66,16 +68,12 @@
 <img align="left" alt="HTML5 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="jQuery (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
 <br/>
 <br/>
-
-### Profile views:
-![visitors](https://profile-counter.glitch.me/FaddyManatee/count.svg)
 
 ---
 
 [website]: https://faddy.dk
 [instagram]: https://instagram.com/thomasmorton_
-[linkedin]: https://www.linkedin.com/in/thomas-morton-40b72622a/
+[linkedin]: https://www.linkedin.com/in/thomas-andrew-morton/
