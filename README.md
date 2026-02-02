@@ -2,14 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
-<!-- Generic template stuff which has nothing to do with me -->
 ## I'm a graduate, programmer, and musician
 
 - 🔭 Check out my [website][website]! (a work in progress project)
-- 🌱 My favourite language is C/C++ <!-- - 🥅 2022 Goals:  -->
+- 🌱 My favourite language is C/C++
 - ⚡ Fun fact: I play the Alto Saxophone!
 
-### Connect with me:
+### Connect with me
 
 <a href="https://faddy.dk">
   <picture>
@@ -45,7 +44,7 @@
 </a>
 
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
@@ -68,11 +67,6 @@
 <img align="left" alt="HTML5 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3 (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="jQuery (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
-
-<br/>
-<br/>
-
----
 
 [website]: https://faddy.dk
 [instagram]: https://instagram.com/thomasmorton_
