@@ -34,7 +34,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://uk.linkedin.com/in/thomas-andrew-morton">
+<a href="https://uk.linkedin.com/in/tommy-morton">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
