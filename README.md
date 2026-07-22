@@ -4,7 +4,7 @@
 
 ## I'm a graduate, programmer, and musician
 
-- 🔭 Check out my [website][website]! (a work in progress project)
+- 🔭 Check out my [website][website]!
 - 🌱 My favourite language is C/C++
 - ⚡ I play the Alto Saxophone!
 
