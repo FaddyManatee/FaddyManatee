@@ -6,7 +6,7 @@
 
 - 🔭 Check out my [website][website]! (a work in progress project)
 - 🌱 My favourite language is C/C++
-- ⚡ Fun fact: I play the Alto Saxophone!
+- ⚡ I play the Alto Saxophone!
 
 ### Connect with me
 
@@ -34,6 +34,14 @@
   </picture>
 </a>
 &nbsp;
+<a href="https://uk.linkedin.com/in/thomas-andrew-morton">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
+    <!-- Link cheat? -->
+    <img alt="LinkedIn (Logo)"/>
+  </picture>
+</a>
 
 ### Languages and Tools
 
