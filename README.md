@@ -1,4 +1,4 @@
-# Hi there, I'm Thomas - aka FaddyManatee 👋 
+# Hi there, I'm Faddy 👋 
 
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
@@ -18,7 +18,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/thomasmorton_/">
+<a href="https://www.instagram.com/faddymanatee/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/instagram-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="images/instagram-light.svg">
@@ -34,15 +34,6 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://uk.linkedin.com/in/thomas-morton-40b72622a">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
-    <!-- Link cheat? -->
-    <img alt="LinkedIn (Logo)"/>
-  </picture>
-</a>
-
 
 ### Languages and Tools
 
