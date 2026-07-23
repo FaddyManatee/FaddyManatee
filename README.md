@@ -1,4 +1,4 @@
-# Hi there, I'm Faddy 👋 
+# Hi there, I'm Thomas 👋 
 
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
