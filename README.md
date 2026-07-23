@@ -2,48 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
-## I'm a graduate, programmer, and musician
+## I'm a software developer, artist, and musician
 
 - 🔭 Check out my [website][website]!
 - 🌱 My favourite language is C/C++
 - ⚡ I play the Alto Saxophone!
 
-### Connect with me
-
-<a href="https://faddy.dk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/globe-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/globe-light.svg">
-    <img alt="Globe wireframe">
-  </picture>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/faddymanatee/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/instagram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/instagram-light.svg">
-    <img alt="Instagram (Logo)"/>
-  </picture>
-</a>
-&nbsp;
-<a href="https://discord.com/users/376325277208543232/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/discord-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/discord-light.svg">
-    <img alt="Discord (Logo)" width="26px"/>
-  </picture>
-</a>
-&nbsp;
-<a href="https://uk.linkedin.com/in/tommy-morton">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
-    <!-- Link cheat? -->
-    <img alt="LinkedIn (Logo)"/>
-  </picture>
-</a>
-
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git (Logo)" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
@@ -68,5 +33,3 @@
 <img align="left" alt="jQuery (Logo)" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
 
 [website]: https://faddy.dk
-[instagram]: https://instagram.com/thomasmorton_
-[linkedin]: https://www.linkedin.com/in/thomas-andrew-morton/
