@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=faddy.dk&style=for-the-badge&url=https%3A%2F%2Ffaddy.dk)](https://faddy.dk)
 
-## I'm a software developer, artist, and musician
+## I'm a software engineer, artist, and musician
 
 - 🔭 Check out my [website][website]!
 - 🌱 My favourite language is C/C++
